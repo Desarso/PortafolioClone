@@ -45,23 +45,6 @@ function Home({}: Props) {
              </div>
             )}
         </For>
-       
-        {/* <div class="image-container">
-          <img src={catWalkGif} alt="" />
-          <div class="overlay"></div>
-        </div>
-        <div class="image-container">
-          <img src={catWalkGif} alt="" />
-          <div class="overlay"></div>
-        </div>
-        <div class="image-container">
-          <img src={catWalkGif} alt="" />
-          <div class="overlay"></div>
-        </div>
-        <div class="image-container">
-          <img src={catWalkGif} alt="" />
-          <div class="overlay"></div>
-        </div> */}
       </section>
     </div>
   );
